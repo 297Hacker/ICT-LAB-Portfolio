@@ -30,7 +30,7 @@ www/wp-content/uploads/
 www/wp-content/wp-cache-config.php
 www/wp-content/wp-rocket-config/
 
-build/config.json
+config.json
 
 license.txt
 readme.html
@@ -50,7 +50,7 @@ wp-trackback.php
 xmlrpc.php
 
 node_modules
-build/.sass-cache
+.sass-cache
 
 .sass-cache
 .DS_Store
